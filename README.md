@@ -1,5 +1,5 @@
 md
-![](https://media.discordapp.net/attachments/961004017843069018/979920572123349022/NewBanner.png?width=1441&height=324)
+Banner Coming Soon
 <br>
 
 
